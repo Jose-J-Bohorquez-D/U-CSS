@@ -1,0 +1,10 @@
+/*clase en css se caracteriza por iniciar con un . 
+ejemplo .centrar*/
+
+.centrar-texto{
+    text-align: center;
+}
+
+.texto-grande{
+    font-size: 20px;
+}

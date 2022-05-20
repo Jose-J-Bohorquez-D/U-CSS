@@ -1,0 +1,13 @@
+/*el selector universal es un comodin de " * "     */
+*{
+    background-color: #686892;
+    color: aliceblue;
+}
+
+.centrar-texto{
+    text-align: center;
+}
+
+.texto-grande{
+    font-size: 20px;
+}

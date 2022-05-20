@@ -1,0 +1,11 @@
+/*selector de tipo id y su sintaxis es la siguiente
+
+Selector  /    id
+   #         titulo   
+
+y queda asi #titulo para luego agregarle o asignarle los respectivos estilos*/
+
+#titulo{
+    color: crimson;
+    text-align: center;
+}

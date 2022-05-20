@@ -1,0 +1,7 @@
+h1{
+    /*con el !important el navegador entendera que esta primero el archivo css 
+    y no el estilo enbebido o el de que tenga directamente en la etiqueta style del html*/
+    color: purple !important; 
+    text-align: center;
+    font-size: 40px;
+}

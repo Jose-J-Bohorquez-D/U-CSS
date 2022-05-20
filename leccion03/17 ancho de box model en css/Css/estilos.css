@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    color: burlywood;
+}
+
+div{
+    padding: 10px;
+    border: 15px solid #457b47;
+    margin: 20px;
+    background-color: orangered;
+    width: 300px;
+}
