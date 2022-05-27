@@ -1,0 +1,4 @@
+prettier - code formatter
+live Server
+path intellisense
+live server preview
