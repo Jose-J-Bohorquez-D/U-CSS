@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    color: burlywood;
+}
+
+div{
+    padding: 10px 15px 5px 3px;
+    border: 0px solid #457b47;
+    margin: 0px;
+    background-color: orangered;
+    width: 300px;
+    /*outline: 10px solid #03edf5;
+    outline-offset: 10px;*/
+    box-sizing: border-box;
+}

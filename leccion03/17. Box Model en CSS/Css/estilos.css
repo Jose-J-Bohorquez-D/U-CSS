@@ -4,9 +4,8 @@ h1{
 }
 
 div{
+    text-align: center;
     padding: 10px;
     border: 15px solid #457b47;
     margin: 20px;
-    background-color: orangered;
-    width: 300px;
 }

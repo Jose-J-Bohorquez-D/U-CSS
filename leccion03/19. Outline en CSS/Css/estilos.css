@@ -9,5 +9,5 @@ div{
     margin: 20px;
     background-color: orangered;
     width: 300px;
-    outline: 10px solid #03edf5;
+    outline: 20px double #03edf5;
 }
